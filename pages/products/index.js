@@ -35,7 +35,7 @@ export default function ProductsPage() {
               {currency}
             </p>
             <p>category: {category}</p>
-            <p>category: {description}</p>
+            <p>description: {description}</p>
           </li>
         ))}
       </ul>
