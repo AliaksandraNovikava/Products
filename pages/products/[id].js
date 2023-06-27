@@ -36,7 +36,7 @@ export default function ProductDetailsPage({ pieces }) {
             price: {data.price} {data.currency}
           </p>
           <p>category: {data.category}</p>
-          <p>category: {data.description}</p>
+          <p>description: {data.description}</p>
         </li>
       </ul>
     </>
